@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>background.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1023,768}</string>
+                <key>spriteSourceSize</key>
+                <string>{1023,768}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{1023,768}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>1023 768 0 768 0 0 1023 0</string>
+                <key>verticesUV</key>
+                <string>1024 769 1 769 1 1 1024 1</string>
+            </dict>
+            <key>capguy/walk/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,0.5}</string>
+                <key>spriteSize</key>
+                <string>{70,129}</string>
+                <key>spriteSourceSize</key>
+                <string>{75,130}</string>
+                <key>textureRect</key>
+                <string>{{1026,263},{70,129}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 12 13 11 0 10 6 9 10 6 7 8 6 8 9 5 6 10 1 3 4 1 2 3 1 4 5 0 1 5 0 5 10 11 12 0</string>
+                <key>vertices</key>
+                <string>44 61 54 97 73 113 68 118 48 128 42 101 27 118 27 129 15 129 3 117 17 101 16 8 40 0 73 0</string>
+                <key>verticesUV</key>
+                <string>1067 324 1077 360 1096 376 1091 381 1071 391 1065 364 1050 381 1050 392 1038 392 1026 380 1040 364 1039 271 1063 263 1096 263</string>
+            </dict>
+            <key>capguy/walk/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-2.5,0.5}</string>
+                <key>spriteSize</key>
+                <string>{70,129}</string>
+                <key>spriteSourceSize</key>
+                <string>{75,130}</string>
+                <key>textureRect</key>
+                <string>{{1026,136},{70,129}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>11 12 13 10 11 13 0 13 14 10 1 9 5 8 9 7 8 5 7 5 6 10 13 1 2 3 4 1 2 4 9 1 4 9 4 5 0 1 13</string>
+                <key>vertices</key>
+                <string>67 7 45 66 70 125 43 125 40 104 16 112 12 129 0 117 0 101 21 87 15 33 18 12 37 1 49 9 67 0</string>
+                <key>verticesUV</key>
+                <string>1093 143 1071 202 1096 261 1069 261 1066 240 1042 248 1038 265 1026 253 1026 237 1047 223 1041 169 1044 148 1063 137 1075 145 1093 136</string>
+            </dict>
+            <key>capguy/walk/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2,2.5}</string>
+                <key>spriteSize</key>
+                <string>{65,125}</string>
+                <key>spriteSourceSize</key>
+                <string>{75,130}</string>
+                <key>textureRect</key>
+                <string>{{1026,662},{65,125}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 12 13 1 12 0 1 10 11 6 8 9 2 10 1 3 4 5 3 5 6 9 2 3 9 3 6 2 9 10 6 7 8 1 11 12</string>
+                <key>vertices</key>
+                <string>72 7 55 41 46 69 50 117 67 125 33 125 31 107 19 125 7 97 28 90 19 73 19 11 30 0 72 0</string>
+                <key>verticesUV</key>
+                <string>1091 669 1074 703 1065 731 1069 779 1086 787 1052 787 1050 769 1038 787 1026 759 1047 752 1038 735 1038 673 1049 662 1091 662</string>
+            </dict>
+            <key>capguy/walk/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{7.5,1}</string>
+                <key>spriteSize</key>
+                <string>{58,128}</string>
+                <key>spriteSourceSize</key>
+                <string>{75,130}</string>
+                <key>textureRect</key>
+                <string>{{1085,397},{58,128}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 9 10 0 8 9 1 7 8 3 4 5 3 5 6 2 3 6 1 2 6 1 6 7 0 1 8</string>
+                <key>vertices</key>
+                <string>74 9 46 57 48 98 43 113 57 128 25 122 25 91 16 73 16 35 25 0 74 0</string>
+                <key>verticesUV</key>
+                <string>1143 406 1115 454 1117 495 1112 510 1126 525 1094 519 1094 488 1085 470 1085 432 1094 397 1143 397</string>
+            </dict>
+            <key>capguy/walk/0005.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{4,0.5}</string>
+                <key>spriteSize</key>
+                <string>{61,129}</string>
+                <key>spriteSourceSize</key>
+                <string>{75,130}</string>
+                <key>textureRect</key>
+                <string>{{1026,528},{61,129}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 9 10 8 1 7 7 1 2 6 7 3 3 4 5 6 3 5 7 2 3 8 9 1 0 1 10</string>
+                <key>vertices</key>
+                <string>72 1 46 57 56 89 47 102 69 119 41 129 21 119 11 68 18 7 40 0 43 0</string>
+                <key>verticesUV</key>
+                <string>1087 529 1061 585 1071 617 1062 630 1084 647 1056 657 1036 647 1026 596 1033 535 1055 528 1058 528</string>
+            </dict>
+            <key>capguy/walk/0006.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1,0.5}</string>
+                <key>spriteSize</key>
+                <string>{57,129}</string>
+                <key>spriteSourceSize</key>
+                <string>{75,130}</string>
+                <key>textureRect</key>
+                <string>{{1080,524},{57,129}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>11 12 13 10 11 13 0 13 14 9 10 13 1 8 9 1 13 0 8 3 7 4 5 6 7 3 4 1 2 3 8 1 3 7 4 6 1 9 13</string>
+                <key>vertices</key>
+                <string>67 6 48 59 62 95 44 95 42 120 59 129 25 129 11 115 10 67 24 52 15 38 17 11 37 1 49 9 67 0</string>
+                <key>verticesUV</key>
+                <string>1137 530 1118 583 1132 619 1114 619 1112 644 1129 653 1095 653 1081 639 1080 591 1094 576 1085 562 1087 535 1107 525 1119 533 1137 524</string>
+            </dict>
+            <key>capguy/walk/0007.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{3.5,1}</string>
+                <key>spriteSize</key>
+                <string>{62,128}</string>
+                <key>spriteSourceSize</key>
+                <string>{75,130}</string>
+                <key>textureRect</key>
+                <string>{{1026,398},{62,128}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 10 11 0 9 10 0 8 9 4 5 6 4 6 7 2 3 4 2 4 7 1 2 7 1 7 8 0 1 8</string>
+                <key>vertices</key>
+                <string>72 7 46 58 49 69 65 86 37 114 47 128 20 128 10 63 24 45 17 31 24 0 72 0</string>
+                <key>verticesUV</key>
+                <string>1088 405 1062 456 1065 467 1081 484 1053 512 1063 526 1036 526 1026 461 1040 443 1033 429 1040 398 1088 398</string>
+            </dict>
+            <key>capguy/walk/0008.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2,0}</string>
+                <key>spriteSize</key>
+                <string>{69,130}</string>
+                <key>spriteSourceSize</key>
+                <string>{75,130}</string>
+                <key>textureRect</key>
+                <string>{{1026,1},{69,130}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 8 9 1 7 8 4 5 6 3 4 6 2 3 6 7 1 2 7 2 6 0 1 8</string>
+                <key>vertices</key>
+                <string>74 8 46 57 56 81 46 130 27 130 5 124 21 97 15 68 20 0 74 0</string>
+                <key>verticesUV</key>
+                <string>1095 9 1067 58 1077 82 1067 131 1048 131 1026 125 1042 98 1036 69 1041 1 1095 1</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>cityscene.pvr</string>
+            <key>size</key>
+            <string>{1144,788}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:578f4d137bf2f0aa3a14d2c4023ed5c4:901a8c5b6c5ac754ede4d47255356dbc:dcc8072354d93ff228335b9b7a3bfe38$</string>
+            <key>textureFileName</key>
+            <string>cityscene.pvr</string>
+        </dict>
+    </dict>
+</plist>
